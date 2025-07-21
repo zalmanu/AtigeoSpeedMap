@@ -4,7 +4,7 @@ Web analytics interface for navigational data captured and parsed from cars runn
 
 ### Highlight:
 
-Creating a heatmap with the Google Maps API, providing an overview of how speedy the traffic is in different parts of the city.
+Analyze and vizualize real-time speeding data, detecting dangerous streets.
 
 ![img](/atigeo-speedmap-fullscreen-jpeg.jpg)
 
